@@ -1,0 +1,34 @@
+
+
+
+
+{
+  "addTask": "Add New Task",
+  "taskTitle": "Task Title",
+  "taskDesc": "Task Descreption",
+  "date": "Select Date",
+  "time": "Select Time",
+  "add": "Add",
+  "Language": "Language",
+  "arabic": "Arabic",
+  "english": "English",
+  "Theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "done": "Done..!",
+  "edit": "Edit",
+  "delete": "Delete",
+  "editTask": "Edit Task",
+  "update": "Update",
+  "name":"Name",
+  "email":"Email",
+  "pass":"Password",
+  "phone":"Phone",
+  "create":"Create Account",
+  "check":"Are you have an account..? Login",
+  "forget":"Forget Password..?",
+  "check2":"you not have an account..? Create Account",
+  "login":"Login",
+  "invalid": "invalid",
+  "hi": "Hi"
+}
