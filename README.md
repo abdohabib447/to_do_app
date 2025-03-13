@@ -1,16 +1,28 @@
-# do_to_app
+# ✅ To-Do App - Your Smart Task Manager  
 
-A new Flutter project.
+## 🌟 Introduction  
+**To-Do App** is a simple yet powerful task management application designed to help you stay organized and boost productivity. With an intuitive UI and seamless user experience, you can easily add, edit, and manage your daily tasks from anywhere.  
 
-## Getting Started
+This app is built using **Flutter** with **Provider** for state management and **Firebase** as the backend for secure and real-time task storage.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Features  
+✅ **Add & Edit Tasks** - Easily create and update your to-do list  
+✅ **Task Completion** - Mark tasks as done with a single tap  
+✅ **Delete Tasks** - Remove completed or unwanted tasks  
+✅ **Firebase Storage** - Store tasks securely in Firebase for real-time access across devices  
+✅ **Minimal & Clean UI** - A distraction-free design for better focus  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+🏗️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter (Dart) - Cross-platform UI framework
+
+Provider - State management
+
+Firebase Firestore - Cloud-based database for task storage
+
+Firebase Authentication (Optional) - Secure user login for personalized tasks
+
+Animations - Smooth transitions for a better user experience
